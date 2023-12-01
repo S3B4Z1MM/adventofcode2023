@@ -1,4 +1,3 @@
-import os
 import string
 
 digits = string.digits
